@@ -266,7 +266,7 @@
                 
               </div>
             </div>
-          </div></div></div><div class="slick-slide" data-slick-index="1" role="group" aria-label="slide 2" aria-hidden="true" style="width: 1800px; position: relative; left: -1800px; top: 0px; z-index: 998; opacity: 0;"><div><div class="paragraph paragraph--type--featured-faculty paragraph--view-mode--default faculty-slide" style="width: 100%; display: inline-block;">
+          </div></div></div><div class="slick-slide" data-slick-index="1" role="group" aria-label="slide 2" aria-hidden="true" style=" position: relative; left: -1800px; top: 0px; z-index: 998; opacity: 0;"><div><div class="paragraph paragraph--type--featured-faculty paragraph--view-mode--default faculty-slide" style="width: 100%; display: inline-block;">
             <div class="main-image">
               
                       <div class="field field--name-field-featured-faculty-main-img field--type-entity-reference field--label-hidden field__item"><article class="view-mode-captionless-medium media media-image"><div class="field field--name-image field--type-image field--label-hidden field__item" data-mid="176956"><img loading="lazy" srcset="/img/CEO.jpg 640w, /img/CEO.jpg 960w, /img/CEO.jpg 1440w, /img/CEO.jpg 1920w" sizes="(min-width:40em) 50vw, 100vw" width="640" height="360" src="/img/CEO.jpg" alt="Leonard Wantchekon" typeof="foaf:Image"></div></article></div>
