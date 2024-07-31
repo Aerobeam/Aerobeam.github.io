@@ -8,7 +8,7 @@
                       <h1 id="site-name">
               <a href="/" title="Home" rel="home" class="site-logo">
                 <span class="show-for-sr">Aerobeam</span>
-              </a>
+              </a>https://aerobeam.ie/img/shutterstock_2400596443.jpg
             </h1>
                   </div>
         <nav aria-label="Main">
