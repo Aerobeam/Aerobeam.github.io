@@ -781,7 +781,6 @@ h1, h2, h3 {
         padding-right: 0;
         margin-left: auto;
         margin-right: auto;
-        max-width: 1800px;
     }
 }
 
@@ -1243,7 +1242,6 @@ p a, li a, .field--type-text-long a, .paragraph--type--list-group a {
         padding-right: 0;
         margin-left: auto;
         margin-right: auto;
-        max-width: 1800px;
     }
 }
 
@@ -1688,7 +1686,6 @@ div.cta a:focus-visible,a.arrow:focus-visible,a.promo-more-link:focus-visible,a.
         padding-right: 0;
         margin-left: auto;
         margin-right: auto;
-        max-width: 1800px;
     }
 }
 
