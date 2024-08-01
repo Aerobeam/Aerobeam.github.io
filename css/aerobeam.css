@@ -295,7 +295,7 @@ body:has(.hero-overlay) .menutoggle:hover,body:has(.hero-overlay) .menutoggle:fo
         display: flex;
         flex-direction: column;
         padding: 4.625rem 7vw 8rem;
-        margin-top: calc(0rem - 81vw);
+        margin-top: calc(0rem - 400px);
         z-index: 499;
     }
 }
@@ -2130,7 +2130,7 @@ div.cta a:focus-visible,a.arrow:focus-visible,a.promo-more-link:focus-visible,a.
 .image-caption-overlay {
     padding: 50px;
     padding: clamp(16px, 7vw, 50px);
-    width: 100vw;
+    width: 88vw;
 }
 
 .media-object {
