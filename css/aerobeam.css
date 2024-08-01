@@ -2130,7 +2130,7 @@ div.cta a:focus-visible,a.arrow:focus-visible,a.promo-more-link:focus-visible,a.
 .image-caption-overlay {
     padding: 50px;
     padding: clamp(16px, 7vw, 50px);
-    width: 88vw;
+    width: 100vw;
 }
 
 .media-object {
