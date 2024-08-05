@@ -297,7 +297,7 @@
     line-height: 1.625;
     font-size: 1rem;
     color: #ccc;
-">Website Designed by <a href="" style="
+">Website Designed by <a href="https://jamiesomers.com" style="
     color: #ccc;
 "> Jamie Somers </a></p></div>
 
