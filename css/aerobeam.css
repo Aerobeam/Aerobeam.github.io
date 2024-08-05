@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+@font-face {
+font-family: 'Tw Cen MT';
+font-style: normal;
+font-weight: normal;
+src: local('Tw Cen MT'), url('Tw Cen MT.woff') format('woff');
+}
+
 body {
     margin: 0;
     padding: 0;
