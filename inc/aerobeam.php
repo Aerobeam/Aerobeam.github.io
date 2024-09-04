@@ -22,7 +22,7 @@
                           <a target="_blank" href="https://www.enterprise-ireland.com/en/student-entrepreneur-awards/">
                         <img class="cm-picture" src="/img/sea-logo-2-data.png" width="100%" alt="SEA Logo 2" style="
     width: calc(100px + 6vw);
-    margin-top: 8px;
+    margin-top: 7px;
 "></a>
         </div>
 
