@@ -111,7 +111,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 body:has(.hero-overlay) .block-hobbes-branding a {
-    background: url(/img/Aerobeam.svg) 50% 50% no-repeat;
+    background: url(/img/Aerobeam3.svg) 50% 50% no-repeat;
     color: #fff;
 }
 
@@ -120,7 +120,7 @@ body:has(.hero-overlay) .block-hobbes-branding a {
     margin-top: 27px;
     margin-top: clamp(16px, 2.24vw, 27px);
     height: 72px;
-    background: url(/img/Aerobeam.svg) 50% 50% no-repeat;
+    background: url(/img/Aerobeam3.svg) 50% 50% no-repeat;
     background-size: contain;
 }
 
