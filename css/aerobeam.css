@@ -113,6 +113,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 body:has(.hero-overlay) .block-hobbes-branding a {
     background: url(/img/Aerobeam3.svg) 50% 50% no-repeat;
     color: #fff;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
 }
 
 .block-hobbes-branding a {
@@ -122,6 +124,8 @@ body:has(.hero-overlay) .block-hobbes-branding a {
     height: 72px;
     background: url(/img/Aerobeam3.svg) 50% 50% no-repeat;
     background-size: contain;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
 }
 
 .show-for-sr, .visually-hidden {
