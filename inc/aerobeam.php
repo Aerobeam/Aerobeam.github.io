@@ -59,8 +59,8 @@
 <div about="/news/2024/07/02/summer-reads-2024" class="image-cover-container hero-overlay crop-middle no-chevron hero-mobile-overlay">
   
             <div class="field field--name-field-news-cover-image field--type-entity-reference field--label-hidden field__item"><article class="view-mode-cover-image media media-image"><div class="field field--name-image field--type-image field--label-hidden field__item" data-mid="182651"><video id="videoBG" poster="poster.webp" autoplay="" loop="true" muted="true">
-            <source src="https://laserclean.ie/WindTurbineStock%20(1).webm" type="video/webm">
-            <source src="https://laserclean.ie/WindTurbineStock%20(1)%20(1)%20(1).mp4" type="video/mp4">
+            <source src="https://aerobeam.ie/WindTurbineStock%20(1).webm" type="video/webm">
+            <source src="https://aerobeam.ie/WindTurbineStock%20(1)%20(1)%20(1).mp4" type="video/mp4">
           </video></div></article></div>
       
   <div class="image-caption-overlay hero">
