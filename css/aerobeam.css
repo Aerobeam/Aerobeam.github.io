@@ -2243,6 +2243,12 @@ div.cta a:focus-visible,a.arrow:focus-visible,a.promo-more-link:focus-visible,a.
     width: 100%;
 }
 
+#NewsThumbnail{
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+
 .media-object-section>:last-child {
     margin-bottom: 0;
 }
