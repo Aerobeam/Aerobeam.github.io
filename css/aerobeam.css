@@ -119,6 +119,10 @@ src: local('Tw Cen MT'), url('Tw Cen MT.woff') format('woff');
   font-style: italic;
 }
 
+.contents{
+    z-index:300;
+}
+
 #text-white{
     color:white;
 }
