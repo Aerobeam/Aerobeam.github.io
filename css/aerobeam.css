@@ -220,8 +220,8 @@ h1, h2, h3 {
 }
 
 body:has(.hero-overlay) .header-sticky-container {
-    max-height: 1px;
-    min-height: 1px;
+    max-height: 0px;
+    min-height: 0px;
     overflow: visible;
 }
 
