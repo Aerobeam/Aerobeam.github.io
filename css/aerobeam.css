@@ -1610,6 +1610,9 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
         margin: 0 7%;
         width: 86%;
     }
+    .contents{
+            background: linear-gradient(180deg, #141c0f 5%, #141c0fc7 55%, transparent 100%);}
+    
 }
 
 .content-tile-grid.columns-3 .content-tile-set-item:nth-of-type(2n+1) {
