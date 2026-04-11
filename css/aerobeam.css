@@ -220,9 +220,10 @@ h1, h2, h3 {
 }
 
 body:has(.hero-overlay) .header-sticky-container {
-    max-height: 0px;
-    min-height: 0px;
+    max-height: 1px;
+    min-height: 1px;
     overflow: visible;
+    color:transparent;
 }
 
 .sticky.is-anchored {
