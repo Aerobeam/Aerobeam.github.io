@@ -1610,7 +1610,7 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
         margin: 0 7%;
         width: 86%;
     }
-    .contents{
+    .contents2{
             background: linear-gradient(180deg, #141c0f 5%, #141c0fc7 55%, transparent 100%);}
     
 }
