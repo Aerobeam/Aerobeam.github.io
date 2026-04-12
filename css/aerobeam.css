@@ -1421,7 +1421,7 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
 
 @media print, screen and (min-width: 64.0625em) {
     #main .curated-news-list-tile .columns-3 {
-        padding: 0 23px;
+        padding: 0px 19px 0px 19px;
         width: auto;
     }
 }
@@ -1477,7 +1477,7 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
 
 @media print, screen and (min-width: 64.0625em) {
     #main .hobbes-grid.columns-3 .content-tile-set-item, #main .content-tile-grid.columns-3 .news-run .content-tile-set-item {
-        width: 33.3333%;
+        width: 32.3333%;
     }
 }
 
