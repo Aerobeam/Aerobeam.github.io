@@ -1421,7 +1421,7 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
 
 @media print, screen and (min-width: 64.0625em) {
     #main .curated-news-list-tile .columns-3 {
-        padding: 0px 19px 0px 19px;
+        padding: 0px 24px 0px 20px;
         width: auto;
     }
 }
