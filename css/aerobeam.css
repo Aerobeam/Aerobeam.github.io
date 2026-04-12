@@ -127,6 +127,9 @@ src: local('Tw Cen MT'), url('Tw Cen MT.woff') format('woff');
     color:white;
 }
 
+.contents2{
+        pointer-events: all;}
+
 .buttons{
         display: flex;
     flex-direction: row;
