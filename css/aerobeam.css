@@ -1294,7 +1294,7 @@ p a, li a, .field--type-text-long a, .paragraph--type--list-group a {
 
 .path-frontpage .news-run.block, .path-frontpage .featured-events {
     position: relative;
-    padding-bottom: 3.125rem;
+    padding-bottom: 0rem;
 }
 
 .content-tile h2:first-child, .content-tile h3:first-child {
@@ -1533,7 +1533,7 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
 
 @media print, screen and (min-width: 64.0625em) {
     #main .curated-news-list-tile .columns-3 .card-section {
-        padding: 18px 27px 0;
+        padding: 18px 27px 27px;
         width: auto;
     }
 }
