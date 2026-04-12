@@ -128,7 +128,7 @@ src: local('Tw Cen MT'), url('Tw Cen MT.woff') format('woff');
 }
 
 .contents2{
-        pointer-events: all;}
+        pointer-events: none;}
 
 .buttons{
         display: flex;
@@ -433,6 +433,7 @@ button {
     box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0);
     transition: box-shadow .2s ease-out, filter .2s ease-out;
     cursor: pointer;
+    pointer-events:all;
 }
 
 
@@ -1618,7 +1619,7 @@ div.cta a::after, a.arrow::after, a.promo-more-link::after, a.leftarrow::after {
     }
     .contents2{
             background: linear-gradient(180deg, #141c0f 5%, #141c0fc7 55%, transparent 100%);
-            height: 6rem;}
+            height: 14rem;}
     
 }
 
