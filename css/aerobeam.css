@@ -1011,6 +1011,7 @@ img {
 
 #main .curated-news-list-tile .columns-3 .card-section p {
     Color:#b2cfa6;
+    display:inline;
 }
 
 #GreenHeader {
