@@ -130,6 +130,9 @@ src: local('Tw Cen MT'), url('Tw Cen MT.woff') format('woff');
 .contents2{
         pointer-events: none;}
 
+.navtoggle1{
+    pointer-events:all;}
+
 .buttons{
         display: flex;
     flex-direction: row;
