@@ -191,7 +191,7 @@ body {
 }
 
 .sponsor-logo:hover{
-    filter:opacity(1)!important;}
+    filter:opacity(0.8)!important;}
 
 .sponsor-logo:nth-child(1){
     max-width: 200px;
