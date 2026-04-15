@@ -218,7 +218,7 @@ body {
 }
 
 .sponsor-logo:nth-child(3):hover{
-    filter: grayscale(1) opacity(0.8)!important;
+    filter: grayscale(1) opacity(0.9)!important;
     max-width: 200px;
     height: max-content;
 }
