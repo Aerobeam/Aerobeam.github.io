@@ -190,6 +190,9 @@ body {
     padding: 2rem;
 }
 
+.sponsor-logo:hover{
+    filter:opacity(1)!important;}
+
 .sponsor-logo:nth-child(1){
     max-width: 200px;
     height: max-content;
